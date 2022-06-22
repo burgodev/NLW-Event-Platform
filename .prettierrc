@@ -1,0 +1,8 @@
+printWidth: 60
+jsxBracketSameLine: true
+jsxSingleQuote: false
+singleQuote: true
+semi: true
+trailingComa: true
+bracketLine: false
+arrowFunctionParens: avoid
